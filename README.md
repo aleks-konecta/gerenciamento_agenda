@@ -21,11 +21,11 @@ git clone https://github.com/aleks-konecta/gerenciamento_agenda
 O dashboard 
 
 <p align="center">
-<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard.png" width="200">
-<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_inclui.png" width="200">
-<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_altera.png" width="200">
-<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_visualiza.png" width="200">
-<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_paginador.png" width="200">
+<img alt="Dashboard" src="https://github.com/aleks-konecta/gerenciamento_agenda/blob/master/SRC/dashboard.png" width="200">
+<img alt="Inclusão" src="https://github.com/aleks-konecta/gerenciamento_agenda/blob/master/SRC/dashboard_inclui.png" width="200">
+<img alt="Alteração" src="https://github.com/aleks-konecta/gerenciamento_agenda/blob/master/SRC/dashboard_altera.png" width="200">
+<img alt="Visualização" src="https://github.com/aleks-konecta/gerenciamento_agenda/blob/master/SRC/dashboard_visualiza.png" width="200">
+<img alt="Paginador" src="https://github.com/aleks-konecta/gerenciamento_agenda/blob/master/SRC/dashboard_paginador.png" width="200">
 </p>
 
 O projeto possui um dashboard onde mostra as principais funcionalidades, nessa tela é exibida a lista de eventos onde é possível incluir, editar e remover um evento.

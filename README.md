@@ -19,15 +19,14 @@ git clone https://github.com/aleks-konecta/gerenciamento_agenda
 ## O Sistema
 
 O dashboard 
-![enter image description here](file:///var/folders/hv/kpp0h63d06q4r_j00z_hdn8h0000gn/T/TemporaryItems/%28Um%20Documento%20Sendo%20Salvo%20Por%20screencaptureui%202%29/Captura%20de%20Tela%202020-08-31%20a%CC%80s%2011.34.47.png)
 
-![enter image description here](file:///var/folders/hv/kpp0h63d06q4r_j00z_hdn8h0000gn/T/TemporaryItems/%28Um%20Documento%20Sendo%20Salvo%20Por%20screencaptureui%203%29/Captura%20de%20Tela%202020-08-31%20a%CC%80s%2011.44.20.png)
-
-![enter image description here](file:///var/folders/hv/kpp0h63d06q4r_j00z_hdn8h0000gn/T/TemporaryItems/%28Um%20Documento%20Sendo%20Salvo%20Por%20screencaptureui%204%29/Captura%20de%20Tela%202020-08-31%20a%CC%80s%2011.45.00.png)
-
-![enter image description here](file:///var/folders/hv/kpp0h63d06q4r_j00z_hdn8h0000gn/T/TemporaryItems/%28Um%20Documento%20Sendo%20Salvo%20Por%20screencaptureui%205%29/Captura%20de%20Tela%202020-08-31%20a%CC%80s%2011.45.39.png)
-
-![enter image description here](file:///var/folders/hv/kpp0h63d06q4r_j00z_hdn8h0000gn/T/TemporaryItems/%28Um%20Documento%20Sendo%20Salvo%20Por%20screencaptureui%206%29/Captura%20de%20Tela%202020-08-31%20a%CC%80s%2011.46.04.png)
+<p align="center">
+<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard.png" width="200">
+<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_inclui.png" width="200">
+<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_altera.png" width="200">
+<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_visualiza.png" width="200">
+<img alt="Docker" src="https://github.com/aleks-konecta/gerenciamento_agenda/SRC/dashboard_paginador.png" width="200">
+</p>
 
 O projeto possui um dashboard onde mostra as principais funcionalidades, nessa tela é exibida a lista de eventos onde é possível incluir, editar e remover um evento.
 É possível filtrar um ou mais eventos por descrição, data e hora.
